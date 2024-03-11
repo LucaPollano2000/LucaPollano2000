@@ -1,8 +1,6 @@
 <h1 align="center">Hola, Soy Luca Pollano</h1>
 <h3 align="center">Estudiante de ingenieria en telecomunicaciones en Rio Cuarto</h3>
 
-- Estoy en busca de **PPS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
